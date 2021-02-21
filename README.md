@@ -7,6 +7,6 @@
 1. openpyxl version: 3.0.6
 ## setup virtual enviroment
 1. setup an virual enviroment: python3 -m venv virtual-env-name
-1. activate it: source  virtual-env-name/bin/activate
+1. activate it: source  virtual-env-name/bin/activate (for windows another command)
 
  
